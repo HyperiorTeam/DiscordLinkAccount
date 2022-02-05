@@ -1,0 +1,6 @@
+name: DiscordLinkAccount
+version: 1.0
+author: Stexjy
+main: net.hyperior.discordlinkaccount.main.DLA
+commands:
+  linkaccount:
